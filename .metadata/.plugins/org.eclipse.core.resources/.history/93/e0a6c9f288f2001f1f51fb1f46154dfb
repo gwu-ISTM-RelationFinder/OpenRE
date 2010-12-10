@@ -1,0 +1,5 @@
+package gwu.openre.relation.renderer;
+
+public class EntityRenderer {
+
+}

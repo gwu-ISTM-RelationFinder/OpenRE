@@ -1,0 +1,6 @@
+package gwu.openre.relation;
+
+public interface RelationEntityMethod {
+	public String getRelatedName();
+
+}

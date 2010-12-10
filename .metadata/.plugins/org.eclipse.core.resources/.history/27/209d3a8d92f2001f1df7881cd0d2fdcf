@@ -1,0 +1,16 @@
+package gwu.openre.relation;
+
+public class RelationEntity implements RelationEntityMethod {
+	public String getComName(){
+        return "";
+    }
+    public String getRelatedName(){
+        return "";
+    }
+    public int getLine(){
+        return 0;
+    }
+    public int getDocID(){
+        return 0;
+    }
+}
